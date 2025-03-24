@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-
-**jalolov1001/jalolov1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently working on<br>Developing backend applications using Django and Django Rest Framework, as well as creating Telegram bots.<br><br>👯 I’m looking to collaborate on<br>Backend development projects using Python and Django, as well as Telegram bot automation.<br><br>🤝 I’m looking for help with<br>Advanced Django and REST API best practices.<br><br>🌱 I’m currently learning<br>Deepening my knowledge in Django, Django Rest Framework, and Kivy for mobile app development.<br><br>💬 Ask me about<br>Python backend development, Django, Django Rest Framework, Telegram bot development (Aiogram, PyTelegramBotAPI), and mobile app development with Kivy.<br><br>⚡ Fun fact<br>I enjoy automating tasks and exploring new ways to integrate Python into different platforms.
 
