@@ -37,10 +37,10 @@ Designed, built and shipped **alone**: architecture, backend, frontend, database
 22 database migrations · 341 backend + 196 frontend tests · 0 TODO/FIXME left in the code
 ```
 
-### [SlideMind](https://slidemind.uz) — AI presentation generator · 2025–2026
+### [SlideMind](https://slidemind.uz) — AI presentation generator · Sep 2025 – Mar 2026
 
 Describe a topic, get a complete designed deck — then edit it in a full browser canvas editor.
-Co-founded with a partner; I built the product. It's still running; I've since moved on to yozamiz.uz.
+A friend's product; I built the editor and the generation pipeline. It's still running; I moved on to yozamiz.uz.
 
 - **Browser canvas editor** with pixel-level control over every slide element — text, images,
   shapes, charts — with drag, resize, restyle, z-ordering and undo/redo
