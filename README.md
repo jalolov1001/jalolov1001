@@ -1,7 +1,7 @@
 <h1 align="center">Asadbek Jalolov</h1>
 
 <p align="center">
-  Full-stack developer in Tashkent, Uzbekistan.<br>
+  Full-stack developer in Fergana, Uzbekistan.<br>
   I design, build and ship products end-to-end — schema, backend, frontend, billing, deploy.
 </p>
 
